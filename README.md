@@ -2,19 +2,16 @@
 
 I am a MERN stack developer with expertise in developing and maintaining scalable web applications while integrating DevOps practices. I specialize in automation, workflow optimization, and seamless deployment to enhance operational efficiency.
 
----
 
 ## 🔭 Current Projects
 
 - Developing, maintaining, and automating workflows: **Eswap**
 
----
 
 ## 🌱 Learning Journey
 
 Currently exploring **DevOps** for maintenance, automation, and production workflows.
 
----
 
 ## 💼 Work Experience
 
@@ -30,7 +27,6 @@ Currently exploring **DevOps** for maintenance, automation, and production workf
 - Ligovis
 - Eswap
 
----
 
 ## 💻 Tech Stack
 
@@ -39,7 +35,6 @@ Currently exploring **DevOps** for maintenance, automation, and production workf
 - **Backend:** Express.js
 - **Languages:** JavaScript, Python, Java, C
 
----
 
 ## 📈 Skills
 
@@ -48,14 +43,12 @@ Currently exploring **DevOps** for maintenance, automation, and production workf
 - AWS Cloud
 - Linux (Ubuntu)
 
----
 
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/rakeshmiriyala)
 - [Portfolio](https://rakeshmiriyala.netlify.app)
 
----
 
 ## 📜 Certifications
 
